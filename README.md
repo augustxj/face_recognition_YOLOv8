@@ -7,6 +7,7 @@ This project showcases the use of the `face_recognition` library for efficient f
 - **Face_Recognition**: used for face detection and recognition, it encodes facial features and matches them against a dataset of known faces. It utilizes `Dlib`, a machine learning library that powers the core face detection and recognition models using deep learning.
 - **OpenCV** (`cv2`): used for processing images, converting color spaces, detecting facial features, drawing bounding boxes around detected faces, and resizing images for display.
 - **NumPy**: used for efficient handling and manipulation of image arrays, enabling fast computations for facial encoding and distance calculations.
+- **YOLOv8**: used to detect faces in the images.
 
 ## How It Works
 1. **Load Images**: Reads images from a specified folder.
